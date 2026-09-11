@@ -10,5 +10,9 @@
   "viral-50-usa": {
     "file": "data/viral-50-usa.csv",
     "description": "A sample Viral 50 USA music chart with track positions and artists"
+  },
+   "birds-of-the-world": {
+    "file": "data/birds-of-the-world.csv",
+    "description": "100 birds of the world data and images"
   }
 }
